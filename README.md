@@ -15,7 +15,8 @@ Additional options can be appended after the path to enhance the script's functi
     -t int: Adjust the variant threshold (default = 0.75)
 
 
-Provided with these scripts is a small utility script for automating the push of changes made to your main Git branch. You can utilize it in either of the following ways:
+Included with these scripts is a small utility script designed to automate the pushing of changes to your main Git branch. Before using it, you must adjust the path within the file to match the path of the repository you intend to push.
+After this modification, you can utilize the script in either of the following ways:
 
 1. Directly execute the script with a commit message:
 
