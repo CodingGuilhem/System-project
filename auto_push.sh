@@ -3,7 +3,7 @@ then
     echo "give me a push message"
     exit 1
 else
-    cd ~/Desktop/Cours
+    cd The/path/to/repository
     git add .
     git commit -m "$1"
     git push
